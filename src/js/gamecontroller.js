@@ -69,10 +69,8 @@ export default class GameController {
   endGame() {
     clearInterval(this.intervalId);
     this.goblin.removeFromDOM();
-    setTimeout(() => {
-      alert(`Игра окончена! Ваши очки: ${this.score}`);
-      this.resetGame();
-    }, 50);
+    console.log(`Игра окончена! Ваши очки: ${this.score}`);
+    this.resetGame();
   }
 
   resetGame() {

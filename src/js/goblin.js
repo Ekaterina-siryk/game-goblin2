@@ -2,10 +2,10 @@ import goblinImgSrc from '../assets/goblin.png';
 
 export default class Goblin {
   constructor() {
-    this.element = this.createElement();
+    this.element = Goblin.createElement();
   }
 
-  createElement() {
+  static createElement() {
     const img = document.createElement('img');
     img.src = goblinImgSrc;
     img.classList.add('goblin-img');
