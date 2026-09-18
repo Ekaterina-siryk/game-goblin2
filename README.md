@@ -19,7 +19,7 @@
 В результате пришлите ссылку на ваш GitHub-проект. Не забудьте установить бейджик сборки.
 
 ##  Ссылки
-* **Демо-страница:** [https://github.io](https://github.io)
+* **Демо-страница:** [https://ekaterina-siryk.github.io/game-goblin2/](https://ekaterina-siryk.github.io/game-goblin2/)
 * **Репозиторий:** [https://github.com/Ekaterina-siryk/game-goblin2.git](https://github.com/Ekaterina-siryk/game-goblin2.git)
 
 ## Команды проекта (Yarn)
