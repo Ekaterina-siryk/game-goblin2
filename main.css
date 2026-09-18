@@ -4,7 +4,7 @@ body {
   align-items: center;
   font-family: Arial, sans-serif;
   background-color: #e5e5e5;
-  cursor: url(assets/54a7d4f7b6431f68b820.png), auto;
+  cursor: url(assets/2b6a369352e6d5fac431.png), auto;
   user-select: none;
 }
 
@@ -44,6 +44,6 @@ body {
   width: 80%;
   height: 80%;
   object-fit: contain;
-  cursor: url(assets/54a7d4f7b6431f68b820.png), pointer;
+  cursor: url(assets/2b6a369352e6d5fac431.png), pointer;
 }
 
